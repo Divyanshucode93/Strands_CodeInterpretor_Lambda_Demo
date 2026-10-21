@@ -1,0 +1,7 @@
+bedrock-agentcore
+pandas
+boto3
+pydantic
+starlette
+uvicorn
+websockets
